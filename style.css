@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  background: #a9a8a8;
+
+}
+
+body {
+  font-family:'Courier New', monospace, sans-serif;
+}
+
+.button-container {
+    width: 200px; 
+    display: block;
+    background:lightgray;
+    border-radius: 6px;
+    color: white;
+    padding: 10px;
+    margin: 0px 0px 10px; 
+    border: 2px solid black; 
+}
+
